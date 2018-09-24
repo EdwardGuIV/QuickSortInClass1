@@ -9,6 +9,7 @@ using System.IO;
 
 namespace BubbleSort
 {
+    //http://snipd.net/quicksort-in-c
     class Program
     {
         static void Main(string[] args)
